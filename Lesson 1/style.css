@@ -1,0 +1,14 @@
+h1 {
+    color: red;
+}
+
+.title {
+    background-color: darksalmon;
+    text-align: center;
+}
+
+div {
+    position: absolute;
+    top: 50%;
+    left: 40%;
+}
