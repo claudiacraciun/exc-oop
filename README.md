@@ -1,2 +1,2 @@
 # exc-oop
-Exercitii OOP
+OOP exercises 
